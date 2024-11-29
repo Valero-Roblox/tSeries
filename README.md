@@ -3,7 +3,7 @@
 # tSeries Source Code
 The official source code for the discontinued tSeries products.
 
-*The modified vGate will continue to sell and the vSCI 1 will no longer be sold at Valero*
+*The modified vGate will continue to sell and the tSCI and original tGate will no longer be sold at Valero*
 
 **"All good things must come to an end." Geoffrey Chaucer**
 
