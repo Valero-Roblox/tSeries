@@ -1,4 +1,4 @@
-![tSeries Source Release](https://github.com/user-attachments/assets/625f20de-3cf1-4223-ad16-4649cc4df877)
+![tSeries Source Release  (1)](https://github.com/user-attachments/assets/6133aac7-5371-4b40-9a8b-310a7870da29)
 
 # tSeries Source Code
 The official source code for the discontinued tSeries products.
