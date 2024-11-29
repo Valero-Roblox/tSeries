@@ -1,5 +1,7 @@
 ![tSeries Source Release  (1)](https://github.com/user-attachments/assets/6133aac7-5371-4b40-9a8b-310a7870da29)
 
+[On the website? Click here to download the .rblx file](https://github.com/Valero-Roblox/tSeries/)
+
 # tSeries Source Code
 The official source code for the discontinued tSeries products.
 
