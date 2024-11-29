@@ -14,6 +14,11 @@ The official source code for the discontinued tSeries products.
 
 **Valero Board & Hayden (tommorowTech)**
 
+# Downloads
+[tGate](https://github.com/Valero-Roblox/tSeries/blob/ee53c40376edb5aa6c85b675338100df8d5a68b3/source/tGate.rbxm)
+
+[tSCI](https://github.com/Valero-Roblox/tSeries/blob/ee53c40376edb5aa6c85b675338100df8d5a68b3/source/tSCI.rbxm)
+
 
 # FAQ
 **Q: Will I recieve my money/robux back?**
